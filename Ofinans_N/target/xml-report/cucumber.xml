@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="22.049">
+<testcase classname="anasayfabutonlar" name="Anasafya butun butonlar" time="21.872">
+<system-out><![CDATA[Given kullanici anasayfaya gider............................................passed
+And kullanici kurumsal giris tiklar.........................................passed
+Then kurumsal giris test edilir.............................................passed
+And kullanici bireysel girisi tiklar........................................passed
+And kullanici cep telefonunu girer..........................................passed
+And kullanici sifre girer...................................................passed
+And kullanici giris yap tiklar..............................................passed
+And kullanici otp kodu girer................................................passed
+And giris yap test edilir...................................................passed
+And kullanici cikis yapar...................................................passed
+Then kullanici uye ol tiklar................................................passed
+And uye ol test edilir......................................................passed
+And Kullanici anasayfaya geri doner.........................................passed
+Then kullanici sifremi unuttum tiklar.......................................passed
+And sifremi unuttum test edilir.............................................passed
+And Kullanici anasayfaya geri doner.........................................passed
+Then kullanici sayfayi kapatir..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
